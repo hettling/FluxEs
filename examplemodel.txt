@@ -1,0 +1,20 @@
+##equations
+v1: acetate (ab)	-> accoa(ab)
+v2: accoa(ab) + co2(c)	-> malcoa (abc)
+v3: accoa(ab) 		-> acacp (ab)
+v4: malcoa (abc) + acacp (de)	 -> fa4c (abde) + co2(c)
+v5: malcoa (abc) + fa4c (defg)	 -> fa6c (abdefg) + co2 (c)
+v6: fa6c (abcdef)  -> fa6cext (abcdef)
+
+
+##external metabolites
+acetate	   1e10
+co2	   1e10
+fa6cext	   1e10
+
+##internal metabolites
+accoa	   10
+malcoa	   10
+acacp	   10
+fa4c	   10
+fa6c	   10
